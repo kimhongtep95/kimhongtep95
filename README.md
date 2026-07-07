@@ -32,4 +32,3 @@ This repository also contains a portfolio landing page source:
 
 - Email: `kimhong.tep95@gmail.com`
 - GitHub: [github.com/kimhongtep95](https://github.com/kimhongtep95)
-- Phone: `+1 (562) 480-7901`
